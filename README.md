@@ -6,10 +6,25 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=00B894&center=true&vCenter=true&width=650&lines=Shipping+hackathon+projects+under+deadline+pressure+%F0%9F%9A%80;Building+on+Stellar+%2F+Soroban+%E2%9A%A1;AI+%2B+Healthtech+%2B+Game+Dev+%F0%9F%8E%AE;CS+Student+%40+NIT+Kolkata+%F0%9F%8E%93)](https://git.io/typing-svg)
 
-I'm a CSE student at **Narula Institute of Technology, Kolkata** who builds fast under hackathon pressure. My work spans **Web3 on Stellar**, **AI-driven healthtech**, and **browser/Unity game development**.
+I'm a driven builder who turns hackathon ideas into shipped products — fast. My focus spans **Web3 on Stellar**, where I build smart contracts and gamified ecosystem tools, and **AI-driven healthtech**, where I've built systems that classify medical emergencies in real time. When I'm not shipping under deadline pressure, I'm designing browser and Unity games just for the fun of building something playable. Always learning, always building, always moving toward the next launch.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=arpanbasak90-cyber&color=00b894&style=for-the-badge&label=PROFILE+VIEWS)
 
+</div>
+
+---
+
+## ⚡ Right Now
+
+```yaml
+currently_building: "BuilderLeaderboard Platform — gamified Stellar leaderboard"
+currently_learning: "Soroban smart contracts + advanced Rust"
+pursuing: "Builder belt certifications on RiseIn (Stellar ecosystem)"
+mode: "hackathon sprint 🚀"
+```
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
 ---
@@ -26,12 +41,26 @@ I'm a CSE student at **Narula Institute of Technology, Kolkata** who builds fast
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=arpanbasak90-cyber&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=arpanbasak90-cyber&theme=onedark&no-frame=true&column=4&margin-w=10&margin-h=10&rank=-Secret,-Unknown" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arpanbasak90-cyber&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/arpanbasak90-cyber/arpanbasak90-cyber/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/>
 </div>
 
 ---
 
 ## 🚀 Featured Projects & Repositories
+
+<div align="center">
+<a href="https://github.com/arpanbasak90-cyber/BuilderLeaderboard"><img src="https://helio-github-stats.vercel.app/api/pin/?username=arpanbasak90-cyber&repo=BuilderLeaderboard&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/arpanbasak90-cyber/KREDZ"><img src="https://helio-github-stats.vercel.app/api/pin/?username=arpanbasak90-cyber&repo=KREDZ&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/arpanbasak90-cyber/NFT-Minting-Platform"><img src="https://helio-github-stats.vercel.app/api/pin/?username=arpanbasak90-cyber&repo=NFT-Minting-Platform&theme=tokyonight&hide_border=true" /></a>
+</div>
 
 ### 🌟 [BuilderLeaderboard Platform](https://builder-leaderboard-platform.vercel.app)
 **Gamified Stellar Ecosystem Leaderboard** — A Next.js + Tailwind platform that gamifies builder activity across the Stellar ecosystem. Features real Freighter wallet integration, multi-wallet support, and a live **Soroban smart contract** deployed on Stellar Testnet.
