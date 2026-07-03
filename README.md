@@ -4,7 +4,7 @@
 
 ### Full-Stack Builder | Web3 (Stellar/Soroban) | AI & Healthtech | Game Dev
 
-I'm a CSE student at **Narula Institute of Technology, Kolkata** who builds fast under hackathon pressure. My work spans **Web3 on Stellar**, **AI-driven healthtech**, and **browser/Unity game development**.
+I'm a CS student at **Narula Institute of Technology, Kolkata** who builds fast under hackathon pressure. My work spans **Web3 on Stellar**, **AI-driven healthtech**, and **browser/Unity game development**.
 
 </div>
 
@@ -13,12 +13,12 @@ I'm a CSE student at **Narula Institute of Technology, Kolkata** who builds fast
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=arpanbasak90-cyber&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=arpanbasak90-cyber&theme=radical&hide_border=true" height="165"/>
+<img src="https://helio-github-stats.vercel.app/api?username=arpanbasak90-cyber&show_icons=true&theme=radical&hide_border=true" height="165"/>
+<img src="https://github-streak-stats-ruby.vercel.app/?user=arpanbasak90-cyber&theme=radical&hide_border=false" height="165"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpanbasak90-cyber&layout=compact&theme=radical&hide_border=true" height="165"/>
+<img src="https://helio-github-stats.vercel.app/api/top-langs?username=arpanbasak90-cyber&theme=radical&hide_border=true" height="165"/>
 </div>
 
 ---
@@ -59,7 +59,7 @@ I'm a CSE student at **Narula Institute of Technology, Kolkata** who builds fast
 
 `Tech Stack: Three.js, Canvas API, Unity, C#`
 
-### 🧬 [Mintlify Clone]
+### 🧬 [Mintlify Clone](https://mintlify-clone-lilac.vercel.app)
 Pixel-perfect replica of the Mintlify homepage, built and deployed under deadline pressure.
 
 `Tech Stack: TypeScript, TanStack Start`
