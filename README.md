@@ -59,7 +59,7 @@ I'm a CS student at **Narula Institute of Technology, Kolkata** who builds fast 
 
 `Tech Stack: Three.js, Canvas API, Unity, C#`
 
-### 🧬 [Mintlify Clone](https://mintlify-clone-lilac.vercel.app)
+### 🧬 [Mintlify Clone]
 Pixel-perfect replica of the Mintlify homepage, built and deployed under deadline pressure.
 
 `Tech Stack: TypeScript, TanStack Start`
