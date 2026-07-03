@@ -126,12 +126,6 @@ Pixel-perfect replica of the Mintlify homepage, built and deployed under deadlin
 
 ---
 
-## 📈 GitHub Metrics Dashboard
-
-<div align="center">
-<img src="./github-metrics.svg" alt="Metrics" />
-</div>
-
 <div align="center">
 <i>"Building under deadlines, shipping under pressure — hackathons are just my favorite sprint."</i>
 
