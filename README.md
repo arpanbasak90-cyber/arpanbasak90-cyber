@@ -23,10 +23,6 @@ pursuing: "Builder belt certifications on RiseIn (Stellar ecosystem)"
 mode: "hackathon sprint 🚀"
 ```
 
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
 ---
 
 ## 📊 GitHub Stats
@@ -69,7 +65,6 @@ mode: "hackathon sprint 🚀"
 ## 🚀 Featured Projects & Repositories
 
 <div align="center">
-<a href="https://github.com/arpanbasak90-cyber/BuilderLeaderboard"><img src="https://helio-github-stats.vercel.app/api/pin/?username=arpanbasak90-cyber&repo=BuilderLeaderboard&theme=tokyonight&hide_border=true" /></a>
 <a href="https://github.com/arpanbasak90-cyber/KREDZ"><img src="https://helio-github-stats.vercel.app/api/pin/?username=arpanbasak90-cyber&repo=KREDZ&theme=tokyonight&hide_border=true" /></a>
 <a href="https://github.com/arpanbasak90-cyber/NFT-Minting-Platform"><img src="https://helio-github-stats.vercel.app/api/pin/?username=arpanbasak90-cyber&repo=NFT-Minting-Platform&theme=tokyonight&hide_border=true" /></a>
 </div>
