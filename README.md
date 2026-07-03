@@ -8,9 +8,23 @@
 
 I'm a driven builder who turns hackathon ideas into shipped products — fast. My focus spans **Web3 on Stellar**, where I build smart contracts and gamified ecosystem tools, and **AI-driven healthtech**, where I've built systems that classify medical emergencies in real time. When I'm not shipping under deadline pressure, I'm designing browser and Unity games just for the fun of building something playable. Always learning, always building, always moving toward the next launch.
 
+[![Gmail](https://img.shields.io/badge/-arpanbasak90@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arpanbasak90@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Arpan_Basak-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpan-basak-075892368)
+[![GitHub](https://img.shields.io/badge/-arpanbasak90--cyber-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/arpanbasak90-cyber)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=arpanbasak90-cyber&color=00b894&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
+
+---
+
+## 🏆 Highlights
+
+- 🚑 Built **MedFlow Routing**, an AI emergency-classification system at ~98–100% model accuracy, submitted to **TECHNOVA 2026**
+- ⚡ Deployed a live **Soroban smart contract** on Stellar Testnet for the BuilderLeaderboard Platform
+- 🎓 Progressing through **builder belt certifications** on RiseIn across the Stellar ecosystem
+- 💳 Shipped **KREDZ**, a full-stack AI credit intelligence platform, as part of a 4-person team
+- 🎮 Built and deployed 3 independent games spanning browser Canvas, Three.js, and Unity
 
 ---
 
@@ -127,7 +141,10 @@ Pixel-perfect replica of the Mintlify homepage, built and deployed under deadlin
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpanbasak90@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpan-basak-075892368)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/arpanbasak90-cyber)
 [![Portfolio](https://img.shields.io/badge/Live_Project-FF6F00?style=for-the-badge&logo=vercel&logoColor=white)](https://builder-leaderboard-platform.vercel.app)
+
+*Open to hackathon collabs, Web3/Stellar projects, and interesting builds. Reach out anytime.*
 
 </div>
 
