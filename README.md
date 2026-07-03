@@ -30,6 +30,18 @@ I'm a CS student at **Narula Institute of Technology, Kolkata** who builds fast 
 
 `Tech Stack: Next.js, Tailwind CSS, Rust, Soroban, Stellar`
 
+### 💳 [KREDZ](https://github.com/arpanbasak90-cyber/KREDZ)
+**AI-Powered Credit Intelligence Platform** — A full-stack app using AI-driven logic to analyze, verify, and score creditworthiness in real time. FastAPI backend, React + Tailwind frontend, Dockerized and deployed across Vercel + Render. Built as a team project.
+🔗 [Live Demo](https://kredz-2nzq.vercel.app) · [API Docs](https://kredz.onrender.com/docs)
+
+`Tech Stack: React, Tailwind CSS, FastAPI, Python, Docker`
+
+### 🖼️ [NFT Minting Platform](https://github.com/arpanbasak90-cyber/NFT-Minting-Platform)
+**Soroban-Powered NFT Platform on Stellar** — A foundational NFT minting platform where users can create, own, transfer, and query unique digital assets on-chain, built entirely with Soroban smart contracts.
+🔗 [View Deployed Contract](https://stellar.expert/explorer/testnet/contract/CDVCJKX6FJFOOQ76BJ365SJS6OTGH2ZQF6QVJO5YGGR37QBJ3I2QB7PZ)
+
+`Tech Stack: Rust, Soroban, Stellar`
+
 ### 🚑 MedFlow Routing
 **AI-Powered Emergency Response & Smart Ambulance Routing System** — A FastAPI backend running three ML models (Random Forest / Gradient Boosting) to classify heart, stroke, and respiratory emergencies from patient vitals at ~98–100% accuracy, paired with real-time route optimization. Built for **TECHNOVA 2026**.
 
@@ -47,9 +59,8 @@ I'm a CS student at **Narula Institute of Technology, Kolkata** who builds fast 
 
 `Tech Stack: Three.js, Canvas API, Unity, C#`
 
-### 🧬 Mintlify Clone
+### 🧬 [Mintlify Clone](https://mintlify-clone-lilac.vercel.app)
 Pixel-perfect replica of the Mintlify homepage, built and deployed under deadline pressure.
-🔗 [mintlify-clone-lilac.vercel.app](https://mintlify-clone-lilac.vercel.app)
 
 `Tech Stack: TypeScript, TanStack Start`
 
@@ -60,7 +71,7 @@ Pixel-perfect replica of the Mintlify homepage, built and deployed under deadlin
 **Languages:** JavaScript, TypeScript, Python, Rust, C#
 **Web3 & Blockchain:** Stellar, Soroban Smart Contracts, Freighter Wallet
 **Frontend:** Next.js, React, Tailwind CSS
-**Backend & AI/ML:** FastAPI, Supabase, scikit-learn
+**Backend & AI/ML:** FastAPI, Supabase, scikit-learn, Docker
 **Game Dev:** Unity (URP), Three.js, HTML5 Canvas
 
 ---
@@ -68,6 +79,7 @@ Pixel-perfect replica of the Mintlify homepage, built and deployed under deadlin
 ## 📫 Let's Connect!
 
 - **GitHub:** [@arpanbasak90-cyber](https://github.com/arpanbasak90-cyber)
+- **LinkedIn:** [arpan-basak](https://www.linkedin.com/in/arpan-basak-075892368)
 - **Email:** arpanbasak90@gmail.com
 - **Live Project:** [BuilderLeaderboard Platform](https://builder-leaderboard-platform.vercel.app)
 
