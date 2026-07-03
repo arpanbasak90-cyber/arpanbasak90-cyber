@@ -1,12 +1,14 @@
 <div align="center">
 
-# 👋 Hi, I'm Arpan ([@arpanbasak90-cyber](https://github.com/arpanbasak90-cyber))
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C5CE7,100:00B894&height=200&section=header&fontColor=ffffff" />
 
-### Full-Stack Builder | Web3 (Stellar/Soroban) | AI & Healthtech | Game Dev
+[![Name Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=40&pause=1500&color=6C5CE7&center=true&vCenter=true&width=600&height=60&lines=%F0%9F%91%8B+Hi%2C+I'm+Arpan+Basak)](https://git.io/typing-svg)
 
-I'm a CS student at **Narula Institute of Technology, Kolkata** who builds fast under hackathon pressure. My work spans **Web3 on Stellar**, **AI-driven healthtech**, and **browser/Unity game development**.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=00B894&center=true&vCenter=true&width=650&lines=Shipping+hackathon+projects+under+deadline+pressure+%F0%9F%9A%80;Building+on+Stellar+%2F+Soroban+%E2%9A%A1;AI+%2B+Healthtech+%2B+Game+Dev+%F0%9F%8E%AE;CS+Student+%40+NIT+Kolkata+%F0%9F%8E%93)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=arpanbasak90-cyber&color=6c5ce7&style=for-the-badge&label=PROFILE+VIEWS)
+I'm a CSE student at **Narula Institute of Technology, Kolkata** who builds fast under hackathon pressure. My work spans **Web3 on Stellar**, **AI-driven healthtech**, and **browser/Unity game development**.
+
+![Profile Views](https://komarev.com/ghpvc/?username=arpanbasak90-cyber&color=00b894&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -15,16 +17,16 @@ I'm a CS student at **Narula Institute of Technology, Kolkata** who builds fast 
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://helio-github-stats.vercel.app/api?username=arpanbasak90-cyber&show_icons=true&theme=radical&hide_border=true" height="165"/>
-<img src="https://github-streak-stats-ruby.vercel.app/?user=arpanbasak90-cyber&theme=radical&hide_border=false" height="165"/>
+<img src="https://helio-github-stats.vercel.app/api?username=arpanbasak90-cyber&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-streak-stats-ruby.vercel.app/?user=arpanbasak90-cyber&theme=tokyonight&hide_border=false" height="165"/>
 </div>
 
 <div align="center">
-<img src="https://helio-github-stats.vercel.app/api/top-langs?username=arpanbasak90-cyber&theme=radical&hide_border=true" height="165"/>
+<img src="https://helio-github-stats.vercel.app/api/top-langs?username=arpanbasak90-cyber&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=arpanbasak90-cyber&theme=radical&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=arpanbasak90-cyber&theme=tokyonight&no-frame=true&row=1&column=7" />
 </div>
 
 ---
@@ -103,4 +105,6 @@ Pixel-perfect replica of the Mintlify homepage, built and deployed under deadlin
 
 <div align="center">
 <i>"Building under deadlines, shipping under pressure — hackathons are just my favorite sprint."</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B894,100:6C5CE7&height=100&section=footer" />
 </div>
