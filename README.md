@@ -4,7 +4,9 @@
 
 ### Full-Stack Builder | Web3 (Stellar/Soroban) | AI & Healthtech | Game Dev
 
-I'm a CSE student at **Narula Institute of Technology, Kolkata** who builds fast under hackathon pressure. My work spans **Web3 on Stellar**, **AI-driven healthtech**, and **browser/Unity game development**.
+I'm a CS student at **Narula Institute of Technology, Kolkata** who builds fast under hackathon pressure. My work spans **Web3 on Stellar**, **AI-driven healthtech**, and **browser/Unity game development**.
+
+![Profile Views](https://komarev.com/ghpvc/?username=arpanbasak90-cyber&color=6c5ce7&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -19,6 +21,10 @@ I'm a CSE student at **Narula Institute of Technology, Kolkata** who builds fast
 
 <div align="center">
 <img src="https://helio-github-stats.vercel.app/api/top-langs?username=arpanbasak90-cyber&theme=radical&hide_border=true" height="165"/>
+</div>
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=arpanbasak90-cyber&theme=radical&no-frame=true&row=1&column=7" />
 </div>
 
 ---
@@ -68,20 +74,32 @@ Pixel-perfect replica of the Mintlify homepage, built and deployed under deadlin
 
 ## 🛠️ Languages & Technologies
 
-**Languages:** JavaScript, TypeScript, Python, Rust, C#
+<div align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,python,rust,cs,nextjs,react,tailwind,html,css,docker,unity,threejs,git,github,vscode" />
+</div>
+
 **Web3 & Blockchain:** Stellar, Soroban Smart Contracts, Freighter Wallet
-**Frontend:** Next.js, React, Tailwind CSS
-**Backend & AI/ML:** FastAPI, Supabase, scikit-learn, Docker
-**Game Dev:** Unity (URP), Three.js, HTML5 Canvas
+**Backend & AI/ML:** FastAPI, Supabase, scikit-learn
 
 ---
 
 ## 📫 Let's Connect!
 
-- **GitHub:** [@arpanbasak90-cyber](https://github.com/arpanbasak90-cyber)
-- **LinkedIn:** [arpan-basak](https://www.linkedin.com/in/arpan-basak-075892368)
-- **Email:** arpanbasak90@gmail.com
-- **Live Project:** [BuilderLeaderboard Platform](https://builder-leaderboard-platform.vercel.app)
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arpanbasak90@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arpan-basak-075892368)
+[![Portfolio](https://img.shields.io/badge/Live_Project-FF6F00?style=for-the-badge&logo=vercel&logoColor=white)](https://builder-leaderboard-platform.vercel.app)
+
+</div>
+
+---
+
+## 📈 GitHub Metrics Dashboard
+
+<div align="center">
+<img src="./github-metrics.svg" alt="Metrics" />
+</div>
 
 <div align="center">
 <i>"Building under deadlines, shipping under pressure — hackathons are just my favorite sprint."</i>
