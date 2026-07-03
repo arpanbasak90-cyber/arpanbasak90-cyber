@@ -4,7 +4,7 @@
 
 ### Full-Stack Builder | Web3 (Stellar/Soroban) | AI & Healthtech | Game Dev
 
-I'm a CS student at **Narula Institute of Technology, Kolkata** who builds fast under hackathon pressure. My work spans **Web3 on Stellar**, **AI-driven healthtech**, and **browser/Unity game development**.
+I'm a CSE student at **Narula Institute of Technology, Kolkata** who builds fast under hackathon pressure. My work spans **Web3 on Stellar**, **AI-driven healthtech**, and **browser/Unity game development**.
 
 </div>
 
